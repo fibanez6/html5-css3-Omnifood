@@ -59,3 +59,4 @@ SECTIONS:
 * [Unsplash](https://unsplash.com/)
 * [Ionic](https://ionic.io/ionicons)
 * [Open color](https://yeun.github.io/open-color/)
+* [Squoosh - Compress images](https://squoosh.app/)
